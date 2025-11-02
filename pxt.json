@@ -1,5 +1,5 @@
 {
-    "name": "snakegame",
+    "name": "snakegamefinal",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.0.59",
+        "target": "2.0.61",
         "targetId": "arcade"
     },
     "supportedTargets": [
